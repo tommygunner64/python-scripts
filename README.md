@@ -1,1 +1,1 @@
-This is a simple python script to spoof your mac address. It directly interacts with the system to update the machines mac address with the first 3 manually coded to represent common vmware mac addresses  
+Welcome to my sandbox! this repo is built to showcase my journey into networking automation, cybersecurity python plc programming and all the other weeds i get into. 
