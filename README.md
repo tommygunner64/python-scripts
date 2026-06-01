@@ -1,0 +1,1 @@
+This is a simple python script to spoof your mac address. It directly interacts with the system to update the machines mac address with the first 3 manually coded to represent common vmware mac addresses  
